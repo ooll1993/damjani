@@ -387,39 +387,23 @@ http://130.0.24.6:2831/udp/239.101.43.15:2345
 #EXTINF:0 group-title="TE HUAJA" tvg-logo="https://i.imgur.com/ZNEAx93.png",[$]SUPER RTL HD 
 http://130.0.24.6:2831/udp/239.101.43.16:2345
 
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/NQWtpMD.png",[$]FERMA VIP 1HD
-https://@fe.tring.al/hls/CH_FermaVip1_ios/master.m3u8
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/rwDZxMG.png",[$]FERMA VIP 2HD
-https://@fe.tring.al/hls/CH_FermaVip2_ios/master.m3u8
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/sLt5m22.png",[$]BB VIP ALBANIA 1HD
-http://185.222.138.254:8080/bigbrotheral1/mpegts
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/R4ZNL5y.png",[$]BB VIP ALBANIA 2HD
-http://185.222.138.254:8080/bigbrother2al/index.m3u8
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/CvOHVG1.png",[$]BB VIP AL 1HD
-http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/297206.ts
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/PHwlPEc.png",[$]BB VIP AL 2HD
-http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/297207.ts
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/EgmmRnO.png",[$]BB VIP AL 1HD (backup)
-http://@82.114.68.53:8000/play/a0a3/index.m3u8
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/xQOycl9.png",[$]BB VIP AL 2HD (backup)
-http://@82.114.68.53:8000/play/a0a4/index.m3u8
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/EYfR8qU.png",[$]TVI REALITY HD
+#EXTINF:0 group-title="REALITY SHOW" tvg-logo="https://i.imgur.com/8tJRQTz.png",[$]FERMA VIP 1HD
+https://dns4.bigushqip.xyz/hls/stream.m3u8
+#EXTINF:0 group-title="REALITY SHOW" tvg-logo="https://i.imgur.com/iXbNr4L.png",[$]FERMA VIP 2HD
+https://dns1.bigushqip.xyz/hls/stream.m3u8
+#EXTINF:0 group-title="REALITY SHOW" tvg-logo="https://i.imgur.com/iXbNr4L.png",[$]FERMA VIP 2HD (backup)
+http://82.114.68.53:8000/play/a0a8/index.m3u8
+#EXTINF:0 group-title="REALITY SHOW" tvg-logo="https://i.imgur.com/EYfR8qU.png",[$]TVI REALITY HD
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/KMyv09e.png",[$]MEDIASET XTRA HD
+#EXTINF:0 group-title="REALITY SHOW" tvg-logo="https://i.imgur.com/KMyv09e.png",[$]MEDIASET XTRA HD
 http://@46.232.186.35:35001/play/a04b
 
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW (TEST)" tvg-logo="https://i.imgur.com/NQWtpMD.png",[$]FERMA VIP 1HD
-http://@5.183.209.141:25461/PerParIM/SeliMI/588
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW (TEST)" tvg-logo="https://i.imgur.com/rwDZxMG.png",[$]FERMA VIP 2HD
-http://@5.183.209.141:25461/PerParIM/SeliMI/589
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW (TEST)" tvg-logo="https://i.imgur.com/sLt5m22.png",[$]BB VIP ALBANIA 1HD
-http://@5.183.209.141:25461/PerParIM/SeliMI/195
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW (TEST)" tvg-logo="https://i.imgur.com/R4ZNL5y.png",[$]BB VIP ALBANIA 2HD
-http://@5.183.209.141:25461/PerParIM/SeliMI/196
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW (TEST)" tvg-logo="https://i.imgur.com/EgmmRnO.png",[$]BB VIP AL 1HD (backup)
-http://185.222.138.163:9000/play/a0k3
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW (TEST)" tvg-logo="https://i.imgur.com/xQOycl9.png",[$]BB VIP AL 2HD (backup)
-https://dns1.bigushqip.xyz/hls/stream.m3u8
+#EXTINF:0 group-title="REALITY SHOW (TEST)" tvg-logo="https://i.imgur.com/8tJRQTz.png",[$]FERMA VIP 1HD
+https://cdn2.fermavip.live/hls/0/stream.m3u8
+#EXTINF:0 group-title="REALITY SHOW (TEST)" tvg-logo="https://i.imgur.com/iXbNr4L.png",[$]FERMA VIP 2HD
+https://cdn1.fermavip.live/hls/0/stream.m3u8
+#EXTINF:0 group-title="REALITY SHOW (TEST)" tvg-logo="https://i.imgur.com/iXbNr4L.png",[$]FERMA VIP 2HD (backup)
+http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/302409.ts
 
 #EXTINF:0 group-title="FILMA(DIGITALB)" tvg-logo="https://i.imgur.com/jiTHjqb.png",[$]FILM GOLD HD
 http://130.0.24.6:2831/udp/239.120.20.30:5000
